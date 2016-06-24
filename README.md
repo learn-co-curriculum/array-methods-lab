@@ -46,15 +46,15 @@ This method takes in an argument of an array and should return the array, sorted
 
 ### `#using_reverse`
 
-This method takes in an argument of an array and should return the array with the contents in reverse order. Use the `#reverse` method on the array to the this test passing. 
+This method takes in an argument of an array and should return the array with the contents in reverse order. Use the `#reverse` method on the array to get this test passing. 
 
 ### `#using_first`
 
-This method takes in an argument of an array and should return the first element of that array. Try to get this test passing without using the `[]` method. Use the the `#first` method instead. 
+This method takes in an argument of an array and should return the first element of that array. Try to get this test passing without using the `[]` method. Use the `#first` method instead. 
 
 ### `#using_last`
 
-This method takes in an argument of an array and should return the last element of that array. Try to get this test passing without using the `[]` method. Use the the `#last` method instead.
+This method takes in an argument of an array and should return the last element of that array. Try to get this test passing without using the `[]` method. Use the `#last` method instead.
 
 ### `#using_size`
 
@@ -64,3 +64,5 @@ This method takes in an argument of an array and should return the size, or leng
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/array-methods-lab'>Array Methods Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/array-methods-lab'>Arrays and Methods Lab</a> on Learn.co and start learning to code for free.</p>
