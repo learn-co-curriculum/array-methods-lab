@@ -14,7 +14,7 @@ In this lab, you will call methods on arrays, like `#sort` and `#include?`.
 
 ## Instructions
 
-In this lab, we will be coding the solutions for each of the above tasks in the body of a method. In `lib/array_methods.rb` we've defined a series of methods for you, each of which is responsible for one of the tasks above. Your job is to write the code in the body of each method to get the test passing.
+In this lab, we will be coding the solutions for each of the above tasks in the body of a method. In `lib/array_methods.rb` we've defined a series of methods for you, each of which is responsible for one of the tasks above. Your job is to write the code in the body of each method to get the tests passing.
 
 Each method takes in an argument of an array. You will call the appropriate method, such as `#include?` or `#first`, on that array to get the test passing.
 
@@ -38,23 +38,23 @@ def using_include(array, element)
 end
 ```
 
-Run your test suite again and you should be passing the first one.
+Run your test suite again, and you should be passing the first one.
 
 ### `#using_sort`
 
-This method takes in an argument of an array and should return the array, sorted in ascending order. Use the `#sort` method on that array to get this test passing.
+This method takes in an argument of an array and should return the array, sorted in ascending order. Use the `#sort` method on the array to get this test passing.
 
 ### `#using_reverse`
 
-This method takes in an argument of an array and should return the array with the contents in reverse order. Use the `#reverse` method on the array to the this test passing.
+This method takes in an argument of an array and should return the array with the contents in reverse order. Use the `#reverse` method on the array to get this test passing.
 
 ### `#using_first`
 
-This method takes in an argument of an array and should return the first element of that array. Try to get this test passing without using the `[]` method. Use the the `#first` method instead.
+This method takes in an argument of an array and should return the first element of that array. Try to get this test passing without using the `[]` method. Use the `#first` method instead.
 
 ### `#using_last`
 
-This method takes in an argument of an array and should return the last element of that array. Try to get this test passing without using the `[]` method. Use the the `#last` method instead.
+This method takes in an argument of an array and should return the last element of that array. Try to get this test passing without using the `[]` method. Use the `#last` method instead.
 
 ### `#using_size`
 
