@@ -18,7 +18,7 @@ In this lab, we will be coding the solutions for each of the above tasks in the 
 
 Each method takes in an argument of an array. You will call the appropriate method, such as `#include?` or `#first`, on that array to get the test passing.
 
-This lab is test-driven so run `learn` to get started and use the test output to guide you.
+This lab is test-driven so run `learn test` to get started and use the test output to guide you.
 
 We'll do the first one together:
 
