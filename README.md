@@ -60,4 +60,4 @@ This method takes in an argument of an array and should return the last element 
 
 This method takes in an argument of an array and should return the size, or length, of that array. Use the `#size` method on that array to get this test passing.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/array-methods-lab' title='Array Methods Lab'>Array Methods Lab</a> on Learn.co and start learning to code for free.</p>
+
